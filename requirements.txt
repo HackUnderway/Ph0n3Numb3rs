@@ -1,0 +1,4 @@
+phonenumbers>=8.12.54
+tabulate>=0.8.10
+geocoder>=1.38.1
+carrier>=0.1.13
